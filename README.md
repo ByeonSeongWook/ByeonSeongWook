@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 </div><br/><br/>
 
 <h2 align= "center">contact me</h2>
-<h4 align= "center">sungwook6546@naver.com&nbsp🤙</h4>
+<h4 align= "center">seongwook092@gmail.com&nbsp📭</h4>
 
