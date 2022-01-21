@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <a  align="center" href="https://blog.naver.com/sungwook6546"><img  align= "center" src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.instagram.com/bbbb__s_w/"><img  align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://github.com/ByeonSeongWK?tab=repositories"><img  align= "center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </div><br/><br/>
 
-<h2 align= "center">contact me</h2>
+<h2 align= "center">Contact me</h2>
 <h4 align= "center">seongwook092@gmail.com&nbsp📭</h4>
