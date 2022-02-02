@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<a  align="center" href="https://blog.naver.com/sungwook6546"><img  align= "center" src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.instagram.com/bbbb__s_w/"><img  align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://github.com/ByeonSeongWK?tab=repositories"><img  align= "center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a  align="center" href="https://blog.naver.com/sungwook6546"><img  align= "center" src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://www.instagram.com/bbbb__s_w/"><img  align= "center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://github.com/ByeonSeongWK?tab=repositories"><img  align= "center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://fortune-science-fe1.notion.site/Programming-8a21fb119e584429bf7956416a803dc1"><img  align= "center" src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div><br/><br/>
 
 <h2 align= "center">Contact me</h2>
