@@ -1,9 +1,9 @@
 ![rm_main](https://user-images.githubusercontent.com/92075727/150312758-867c73ae-c5cd-4759-998e-6b3afa81620d.png)
 
-<h2 style="margin-bottom: 1%;" align="center">Project&nbsp🖥</h2>
-<h4 align="center">link : $nbsp; <a href="https://github.com/ByeonSeongWook/ERP_Project"> ERP Project </h4>
-<h4 align="center">link : $nbsp; <a href="https://github.com/ByeonSeongWook/SIDIZ_Project"> SIDIZ Project </h4>
-<h4 align="center">link : $nbsp; <a href="https://github.com/ByeonSeongWook/BBS_Spring_Project"> BBS Project </h4>
+<h2 style="margin-bottom: 1%;" align="center">Project link&nbsp🖥</h2>
+<h4 align="center"><a href="https://github.com/ByeonSeongWook/ERP_Project"> ERP Project </h4>
+<h4 align="center"><a href="https://github.com/ByeonSeongWook/SIDIZ_Project"> SIDIZ Project </h4>
+<h4 align="center"><a href="https://github.com/ByeonSeongWook/BBS_Spring_Project"> BBS Project </h4>
 
 
 <h2 style="margin-bottom: 1%;" align="center">Stack&nbsp🖥</h2>
